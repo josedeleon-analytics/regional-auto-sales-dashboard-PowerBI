@@ -49,7 +49,7 @@ The model consists of:
 - **Dimension Tables:** `Customers`, `Dealers`, `Vehicles`, `Calendar`
 - **Relationship Type:** One-to-Many (1:N) from each dimension to the fact table
 
-[ERD Diagram](![Entidad relacion Coder (3)](https://github.com/user-attachments/assets/8e3e9b72-d923-446c-b050-10e18ad3456c)
+ERD Diagram![Entidad relacion Coder (3)](https://github.com/user-attachments/assets/8e3e9b72-d923-446c-b050-10e18ad3456c)
 
 
 ---
