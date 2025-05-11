@@ -57,15 +57,15 @@ ERD Diagram![Entidad relacion Coder (3)](https://github.com/user-attachments/ass
 ## 📸 Screenshots
 
 ### Main KPIs Page
-KPI Dashboard(![image](https://github.com/user-attachments/assets/0580351e-8b0b-4dbd-89d6-6e053efa6ed7)
+KPI Dashboard![image](https://github.com/user-attachments/assets/0580351e-8b0b-4dbd-89d6-6e053efa6ed7)
 
 
 ### Vehicle Insights
-Vehicle Tab(![image](https://github.com/user-attachments/assets/d5e2c223-a803-448f-a394-6a2fe8cca6eb)
+Vehicle Tab![image](https://github.com/user-attachments/assets/d5e2c223-a803-448f-a394-6a2fe8cca6eb)
 
 
 ### Customer Demographics
-Customer Tab(![image](https://github.com/user-attachments/assets/8d3e1ce5-07af-4c5e-b7cc-9e1c8448d2b9)
+Customer Tab![image](https://github.com/user-attachments/assets/8d3e1ce5-07af-4c5e-b7cc-9e1c8448d2b9)
 
 
 ---
