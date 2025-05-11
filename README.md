@@ -96,7 +96,7 @@ Sourced from: [Kaggle - Car Sales Dataset](https://www.kaggle.com/)
 ## 👤 Author
 
 **José De León**  
-LinkedIn([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-de-leon-analytics/) | [Portfolio](https://github.com/josedeleon-analytics)
+[LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-de-leon-analytics/) | [Portfolio](https://github.com/josedeleon-analytics)
 
 ---
 
