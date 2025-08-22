@@ -19,6 +19,13 @@ This project presents a Power BI dashboard designed to analyze car sales behavio
 
 ---
 
+## 🗂️ File Descriptions  
+- [**Sales Behavior Across Different Regions (PBIX)**](Sales%20Behavior%20Across%20Different%20Regions.pbix): Power BI project file with the data model, measures, and interactive dashboard  
+- [**Sales Behavior Across Different Regions (PDF)**](Sales%20Behavior%20Across%20Different%20Regions.pdf): Written PDF report with methodology, analysis, and findings  
+
+
+---
+
 ## 🧰 Tools Used
 
 - **Power BI Desktop**
