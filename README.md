@@ -12,6 +12,13 @@ This project presents a Power BI dashboard designed to analyze car sales behavio
 
 ---
 
+## 🔗 Live Dashboard
+👉 [View the interactive dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/1fc72dd9-5ca7-4c9c-9d13-f451014330e3/7bd8a06ecbee597a5687?experience=power-bi)
+
+*(Note: The report is published online for interactive exploration. Please allow time for it to load.)*
+
+---
+
 ## 🧰 Tools Used
 
 - **Power BI Desktop**
