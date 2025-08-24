@@ -1,4 +1,7 @@
 # 🚗 Car Sales Analysis Dashboard (Power BI)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
+![Last Commit](https://img.shields.io/github/last-commit/josedeleon-analytics/regional-auto-sales-dashboard-PowerBI) 
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%26%20Reports-f2c811?logo=powerbi&logoColor=white)
 
 This project presents a Power BI dashboard designed to analyze car sales behavior across different regions, socio-economic groups, and customer demographics. The dataset was sourced from [Kaggle](https://www.kaggle.com/) and processed to extract business insights that can help guide pricing, inventory, and marketing strategies.
 
